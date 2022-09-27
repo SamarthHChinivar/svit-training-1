@@ -1,0 +1,6 @@
+No.	Function	                    Description
+1)	ceil(number)	rounds up the given number. It returns the integer value which is greater than or equal to given number.
+2)	floor(number)	rounds down the given number. It returns the integer value which is less than or equal to given number.
+3)	sqrt(number)	returns the square root of given number.
+4)	pow(base, exponent)	returns the power of given number.
+5)	abs(number)	returns the absolute value of given number.
