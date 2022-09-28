@@ -3,5 +3,5 @@
 This Repository consists the various programs taught in the **SVIT Training** and Placement, which was conducted in *September 2022*.
 
 ## Contents:
-- `C` Language Programs
-- `Python` Language Programs
+- <a href='./C'>C Language Programs</a>
+- <a href='./Python'>Python Language Programs</a>
